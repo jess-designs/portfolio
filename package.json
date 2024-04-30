@@ -1,6 +1,6 @@
 {
-  "homepage": "https://jess-designs.github.io/my-portfolio",
-  "name": "my-portfolio",
+  "homepage": "https://jess-designs.github.io/portfolio",
+  "name": "portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
